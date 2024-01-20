@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋🏼, I'm Garry Greathouse</h1>
 <h3 align="center">A motivated full-stack developer from San Diego, CA</h3>
 
-- 🛠️ I’m currently working on **building my portfolio.**
+- 🛠️ Currently working on **building out my portfolio.**
 
-- 🌱 I’m currently learning **- HTML - CSS - Ruby - Rails - JavaScript - React**
+- 🌱 Have enjoyed learning **- HTML - CSS - Ruby - Rails - JavaScript - React**
 
-- 💡 I’m looking to collaborate on **projects with like minded individuals and startups.**
+- 💡 I’m interested in collaborating on **projects with like minded individuals and startups.**
 
-- 🤝🏼 I’m interested in **expanding my network in within the developer community.**
+- 🤝🏼 Looking to **expand my network within the developer community.**
 
-- 📫 How to reach me **garry.greathouse@gmail.com**
+- 📫 Feel free to reach me @ **garry.greathouse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
